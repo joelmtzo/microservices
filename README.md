@@ -1,6 +1,6 @@
 # Spring Boot - Microservices
 
-This example project includes two microservices, department and employees.
+This example project includes two microservices, department and employees services.
 
 ## Hystrix
 
