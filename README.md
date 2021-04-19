@@ -14,10 +14,11 @@ Hystrix is watching methods for failing calls to related services. If there is s
 
 Enables client-side load-balancing and decouples service providers from consumers without the need for DNS.
 
-## Cloud configuration
+## Cloud Configuration
 
 Configuration server provides server-side and client-side support for externalized configuration in a distributed system.
-'https://github.com/joelmtzo/config-server'
+
+This service clones https://github.com/joelmtzo/config-server repo 
 
 ## API Gateway
 
